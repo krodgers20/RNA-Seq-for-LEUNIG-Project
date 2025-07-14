@@ -1,0 +1,2 @@
+# Workflow
+## Step 1. Get RNA Seq Reads
